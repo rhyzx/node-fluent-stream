@@ -1,5 +1,6 @@
 Fluent Stream
 =============
+[![Build Status](https://travis-ci.org/rhyzx/node-fluent-stream.png?branch=master)](https://travis-ci.org/rhyzx/node-fluent-stream)
 
 Parsing octet-data from stream/buffer can be painful, this is what **fluent-stream** aiming for.
 
