@@ -16,7 +16,7 @@
     "should"    : "1.2.x"
   },
   "scripts"     : {
-    "test"      : "mocha -R Spec"
+    "test"      : "mocha -R spec"
   },
 
   "licenses"    : { "type": "MIT", "url": "http://github.com/rhyzx/node-fluent-stream/raw/master/LICENSE" }
