@@ -1,0 +1,23 @@
+{
+  "name"        : "fluent-stream",
+  "description" : "Fluent octet-stream handling",
+  "version"     : "0.1.0",
+  "author"      : "rhyzx",
+  "homepage"    : "https://github.com/rhyzx/node-fluent-stream",
+  "keywords"    : [ "fluent", "stream", "octet", "buffer", "parse", "decode", "pipe" ],
+  
+  "repository"  : { "type": "git", "url": "git@github.com:rhyzx/node-fluent-stream.git" },  
+  "bugs"        : { "url": "https://github.com/rhyzx/node-fluent-stream/issues" },
+
+  "main"        : "index",
+  
+  "devDependencies" : {
+    "mocha"     : "1.8.x",
+    "should"    : "1.2.x"
+  },
+  "scripts"     : {
+    "test"      : "mocha -R Spec"
+  },
+
+  "licenses"    : { "type": "MIT", "url": "http://github.com/rhyzx/node-fluent-stream/raw/master/LICENSE" }
+}
